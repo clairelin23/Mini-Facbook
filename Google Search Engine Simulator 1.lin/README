@@ -2,7 +2,7 @@ The Google search enine simulator has the following functionalities:
 (1) search for a keyword and display the top 10 websites ranked by randomly generated scores using max heap priority queue
 (2) display top 10 most commonly searched keywords
 (3) increase priority of a website
-(4) a GUI panel for user inputs
+(4) a GUI panel for users to do (2) and (3)
 
 The implementation consists of two main package
 (1) webCrawler package is responsible for retrieving URLs given a user input 
