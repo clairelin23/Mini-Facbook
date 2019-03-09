@@ -1,1 +1,10 @@
-This is an individual project where I implemented a search engine simulator and an GUI panel for it. 
+The Google search enine simulator has the following functionalities:
+(1) search for a keyword and display the top 10 websites ranked by randomly generated scores using max heap priority queue
+(2) display top 10 most commonly searched keywords
+(3) increase priority of a website
+(4) a GUI panel for user inputs
+
+The implementation consists of two main package
+(1) webCrawler package is responsible for retrieving URLs given a user input 
+(2) sorting package is responsible for ranking and displaying websites
+
