@@ -123,7 +123,8 @@ public class BinaryTree
 		return a;
 	}
 	
-	
+	//helper method for assigning an index to a newly inserted node with new key from the user
+	//@return the index of the newly inserted node's index
 	public int getCounter()
 	{
 		return counter-1;

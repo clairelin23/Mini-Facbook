@@ -1,2 +1,4 @@
-This is an individual project where I implemented a micro-verson of Facebook, 
-which includes features such as add-friend, unfriend, and present-friend-list.
+The Facebook Simulator has the following functionalities:
+(1) GUI panel
+(2) add-friend, unfriend, and present-friend-list features implemented by hash tables and linked lists
+
